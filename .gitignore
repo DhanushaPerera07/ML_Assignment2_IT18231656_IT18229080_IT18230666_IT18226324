@@ -1,3 +1,9 @@
+# exclude datasets
+/datasets
+
+# exclude jupyter notebook files
+.ipynb_checkpoints/
+
 # compiled output
 /dist
 /tmp
